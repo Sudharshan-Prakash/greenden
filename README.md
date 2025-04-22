@@ -25,11 +25,5 @@ Welcome to **Greenden** — a beautiful, responsive plant shop landing page buil
 
 ---
 
-## 📸 Preview
-
-![Greenden Preview](./Images/preview.png) <!-- You can add a screenshot here -->
-
----
-
-## 📂 Folder Structure
+You can visit it : https://sudharshan-prakash.github.io/greenden/
 
